@@ -1,14 +1,41 @@
-- 👋 Hi, I’m @obaidulsaiki
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++ and want to learn every language to become a software engineer.
-- 💞️ I’m looking to collaborate on project on this field
-- 📫 How to reach me 
-- facebook:https://www.facebook.com/obidul.saki
-- whatsapp number: 01883440377
-- Codeforce:https://codeforces.com/profile/obaidulsaiki
-- gmail:saki.obidul@gmail.com
-
-<!---
-obaidulsaiki/obaidulsaiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# ** Obaidul Haque **
+> A student of [ IUBAT ](https://iubat.edu/)
+> - joined in january 10,2022
+   
+## Field of Expertise: 
+- [x] C programming 
+- [x] C++ programming
+- [x] Html
+- [x] Css
+- [x] Canva Pro
+- [x] Microsoft office
+	- [x] Word 
+	- [x] Excel
+	- [x] Access
+	- [x] Powerpoint  
+- [ ] Java
+- [ ] C# programming
+- [ ] Javascript
+- [ ] Laraval
+- [ ] PHP
+- [ ] Python  
+## Do programming on 👀
+ -> Codeforces-[obaidulsaiki](https://codeforces.com/profile/obaidulsaiki)    
+ -> beecrowd-  [Obaidulsaiki](https://www.beecrowd.com.br/judge/en/users/basic-info)  
+ -> Vjudge-    [obaidulsaiki](https://vjudge.net/user/obaidulsaiki)  
+ -> Codechef-  [obaidulsaiki](https://www.codechef.com/users/obaidulsaiki)  
+## 💞️ I’m looking to collaborate on project on this field
+## 📫 How to reach me
+facebook:https://www.facebook.com/obidul.saki  
+whatsapp : 01883440377  
+gmail: saki.obidul@gmail.com  
+## Hobbies
+- Watching  
+	- anime  
+	- Tv-series  
+	- Movie  
+- Reading
+	- Books
+	- Novel
+	- manga
+	- comic
