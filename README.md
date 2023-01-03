@@ -1,4 +1,6 @@
-# ** Obaidul Haque **
+# ** Obaidul Haque **  
+Born: 12/01/2002  
+Dhaka,Bangladesh  
 > A student of [ IUBAT ](https://iubat.edu/)
 > - joined in january 10,2022
    
