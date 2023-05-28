@@ -17,7 +17,7 @@ Dhaka,Bangladesh
 	- [x] Powerpoint  
 - [ ] Java
 - [ ] C# programming
-- [ ] Javascript
+- [x] Javascript
 - [ ] Laraval
 - [ ] PHP
 - [ ] Python  
