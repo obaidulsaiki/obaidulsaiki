@@ -20,7 +20,7 @@ Dhaka,Bangladesh
 - [x] Javascript
 - [ ] Laraval
 - [ ] PHP
-- [ ] Python  
+- [x] Python  
 ## Do programming on 👀
  -> Codeforces-[obaidulsaiki](https://codeforces.com/profile/obaidulsaiki)    
  -> beecrowd-  [Obaidulsaiki](https://www.beecrowd.com.br/judge/en/users/basic-info)  
