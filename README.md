@@ -15,7 +15,7 @@ Dhaka,Bangladesh
 	- [x] Excel
 	- [x] Access
 	- [x] Powerpoint  
-- [ ] Java
+- [x] Java
 - [ ] C# programming
 - [x] Javascript
 - [ ] Laraval
