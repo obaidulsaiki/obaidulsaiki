@@ -20,6 +20,7 @@ Dhaka,Bangladesh
 - [x] Javascript
 - [ ] Laraval
 - [ ] PHP
+- [x] MySQL
 - [x] Python  
 ## Do programming on 👀
  -> Codeforces-[obaidulsaiki](https://codeforces.com/profile/obaidulsaiki)    
