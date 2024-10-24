@@ -3,10 +3,12 @@
 
 I’m an expert in Java and Python with strong skills in JavaScript, PHP, SQL, C++, and C. I have hands-on experience in research and practical project development, tackling various challenges across various domains. I'm passionate about solving problems with code or exploring new technologies. The thing I like most is developing something from scratch. In my free time, I try to build systems and projects.
 
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px; border: 2px solid #4A90E2; border-radius: 8px; background-color: #f0f8ff; box-shadow: 0 0 20px rgba(74, 144, 226, 0.5);">
-  <div style="font-size: 24px; font-weight: bold; color: #4A90E2;">Codeforces</div>
-  <div style="font-size: 24px; font-weight: bold; color: #4A90E2;">100 Problems Solved</div>
-</div>
+<p align="center">
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/Codeforces-100%20Problems%20Solved-brightgreen?style=for-the-badge" alt="Codeforces" />
+  </a>
+</p>
+
    
 ---
 
