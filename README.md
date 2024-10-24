@@ -1,5 +1,5 @@
 * Hi, Obaidul Haque 👋
-** 'obaidulsaiki (aspiring_Ml_engineer_and_developer)' **
+ ** `obaidulsaiki (aspiring_Ml_engineer_and_developer)`**
 Born: 12/01/2002  
 Dhaka, Bangladesh  
 > A student of [ IUBAT ](https://iubat.edu/)
