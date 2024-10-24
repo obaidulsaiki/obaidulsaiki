@@ -3,16 +3,11 @@
 
 I’m an expert in Java and Python with strong skills in JavaScript, PHP, SQL, C++, and C. I have hands-on experience in research and practical project development, tackling various challenges across various domains. I'm passionate about solving problems with code or exploring new technologies. The thing I like most is developing something from scratch. In my free time, I try to build systems and projects.
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="271" title="CodeForce solve" src="?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>   
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px; border: 2px solid #4A90E2; border-radius: 8px; background-color: #f0f8ff; box-shadow: 0 0 20px rgba(74, 144, 226, 0.5);">
+  <div style="font-size: 24px; font-weight: bold; color: #4A90E2;">Codeforces</div>
+  <div style="font-size: 24px; font-weight: bold; color: #4A90E2;">100 Problems Solved</div>
+</div>
+   
 ---
 
 Born: 12/01/2002    
