@@ -13,7 +13,7 @@ I’m an expert in Java and Python with strong skills in JavaScript, PHP, SQL, C
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-# 
+#   
 ---
 
 Born: 12/01/2002    
