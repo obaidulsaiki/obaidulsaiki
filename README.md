@@ -1,5 +1,4 @@
 # Hi, Obaidul Haque 👋
-
 **`obaidulsaiki (aspiring_Ml_engineer_and_developer)`**
 
 I’m an expert in Java and Python with strong skills in JavaScript, PHP, SQL, C++, and C. I have hands-on experience in research and practical project development, tackling various challenges across various domains. I'm passionate about solving problems with code or exploring new technologies. The thing I like most is developing something from scratch. In my free time, I try to build systems and projects.
@@ -14,7 +13,7 @@ I’m an expert in Java and Python with strong skills in JavaScript, PHP, SQL, C
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
+# 
 ---
 
 Born: 12/01/2002    
