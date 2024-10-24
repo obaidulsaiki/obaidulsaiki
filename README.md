@@ -5,9 +5,10 @@ I’m an expert in Java and Python with strong skills in JavaScript, PHP, SQL, C
 
 <p align="center">
   <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-100%20Problems%20Solved-brightgreen?style=for-the-badge" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-207%20Problems%20Solved-brightred?style=for-the-badge" alt="Codeforces" />
   </a>
 </p>
+
 
    
 ---
