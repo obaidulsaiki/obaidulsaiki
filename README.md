@@ -1,6 +1,7 @@
 # Hi, Obaidul Haque 👋  
 `obaidulsaiki (aspiring_Ml_engineer_and_developer)`  
-Born: 12/01/2002  
+I’m an expert in Java and Python with strong skills in JavaScript, PHP, SQL, C++, and C. I have hands-on experience in research and practical project development, tackling various challenges across various domains. Whether I'm passionate about solving problems with code or exploring new technologies. The thing I like most is developing something from scratch i try to build systems and projects on myy free time
+Born: 12/01/2002    
 Dhaka, Bangladesh  
 > A student of [ IUBAT ](https://iubat.edu/)
 > - joined in january 10,2022
