@@ -3,11 +3,15 @@
 
 I’m an expert in Java and Python with strong skills in JavaScript, PHP, SQL, C++, and C. I have hands-on experience in research and practical project development, tackling various challenges across various domains. I'm passionate about solving problems with code or exploring new technologies. The thing I like most is developing something from scratch. In my free time, I try to build systems and projects.
 
-<p align="center">
+<p align="left">
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/Codeforces-207%20Problems%20Solved-red?style=for-the-badge" alt="Codeforces" />
+  </a>
   <a href="https://codeforces.com/">
     <img src="https://img.shields.io/badge/Codeforces-207%20Problems%20Solved-brightred?style=for-the-badge" alt="Codeforces" />
   </a>
 </p>
+
 
 
    
