@@ -7,7 +7,7 @@ I’m an expert in Java and Python with strong skills in JavaScript, PHP, SQL, C
   <a href="https://codeforces.com/">
     <img src="https://img.shields.io/badge/Codeforces-red?style=for-the-badge" alt="Codeforces" />
   </a>
-    <img src="https://img.shields.io/badge/207%20Problems%20Solved-FF5722?style=for-the-badge" alt="Problems Solved" />
+    <img src="https://img.shields.io/badge/207-FF5722?style=for-the-badge" alt="Problems Solved" />
 </p>
 
 
