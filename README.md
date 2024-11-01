@@ -1,13 +1,19 @@
-# Hi, Obaidul Haque 👋
+# Hi, Obaidul Haque here👋
 **`obaidulsaiki (aspiring_Ml_engineer_and_developer)`**
 
-I’m an expert in Java and Python with strong skills in JavaScript, PHP, SQL, C++, and C. I have hands-on experience in research and practical project development, tackling various challenges across various domains. I'm passionate about solving problems with code or exploring new technologies. The thing I like most is developing something from scratch. In my free time, I try to build systems and projects.
+I’m a visionary coder, blending my expertise in Java and Python with robust skills in JavaScript, PHP, SQL, C++, and C to bring innovative ideas to life. With hands-on experience in research and practical project development, I thrive on diving into challenging domains, solving problems with clean, efficient code, and exploring cutting-edge tech. What excites me most? Crafting solutions from scratch—there’s nothing like building something that didn’t exist before. When I’m not deep in code, you’ll find me tinkering, experimenting, and creating systems just for the thrill of it, always seeking that next 'aha' moment.
 
 <p align="left">
   <a href="https://codeforces.com/">
     <img src="https://img.shields.io/badge/Codeforces-red?style=for-the-badge" alt="Codeforces" />
   </a>
     <img src="https://img.shields.io/badge/207-FF5722?style=for-the-badge" alt="Problems Solved" />
+</p>
+<p align="left">
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/Codeforces-4CAF50?style=for-the-badge" alt="Codeforces" />
+  </a>
+    <img src="https://img.shields.io/badge/207-8BC34A?style=for-the-badge" alt="Problems Solved" />
 </p>
 
 
