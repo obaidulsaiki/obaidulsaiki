@@ -11,9 +11,9 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
 </p>
 <p align="left">
   <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-4CAF50?style=for-the-badge" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-4CAF50?style=for-the-badge" alt="Hackkerrank" />
   </a>
-    <img src="https://img.shields.io/badge/207-8BC34A?style=for-the-badge" alt="Problems Solved" />
+    <img src="https://img.shields.io/badge/67-8BC34A?style=for-the-badge" alt="Problems Solved" />
 </p>
 
 
@@ -21,11 +21,6 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
 
    
 ---
-
-Born: 12/01/2002    
-Dhaka, Bangladesh  
-> A student of [ IUBAT ](https://iubat.edu/)
-> - joined in january 10,2022
    
 ## Field of Expertise: 
 - [x] C programming 
