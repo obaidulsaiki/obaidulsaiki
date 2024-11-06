@@ -36,9 +36,6 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
    <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
    <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
    <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-   <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/excel.svg"/>
-   <img align="left" alt="PowerPoint" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/powerpoint.svg"/>
-   <img align="left" alt="Word" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/word.svg"/>
    <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"/>
 </p>  
 
