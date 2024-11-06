@@ -11,7 +11,7 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
 </p>
 <p align="left">
   <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-4CAF50?style=for-the-badge" alt="Hackkerrank" />
+    <img src="https://img.shields.io/badge/Hackkerrank-4CAF50?style=for-the-badge" alt="Hackkerrank" />
   </a>
     <img src="https://img.shields.io/badge/67-8BC34A?style=for-the-badge" alt="Problems Solved" />
 </p>
