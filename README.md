@@ -20,40 +20,28 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
    </a>
 </p>
 
-
-
-
- 
-
-
-
-
-   
 ---
    
-## Field of Expertise: 
-- [x] C programming 
-- [x] C++ programming
-- [x] Html
-- [x] Css
-- [x] Canva Pro
-- [x] Microsoft office
-	- [x] Word 
-	- [x] Excel
-	- [x] Access
-	- [x] Powerpoint  
-- [x] Java
-- [ ] C# programming
-- [x] Javascript
-- [ ] Laraval
-- [ ] PHP
-- [x] MySQL
-- [x] Python  
-## Do programming on 👀
- -> Codeforces-[obaidulsaiki](https://codeforces.com/profile/obaidulsaiki)    
- -> beecrowd-  [Obaidulsaiki](https://www.beecrowd.com.br/judge/en/users/basic-info)  
- -> Vjudge-    [obaidulsaiki](https://vjudge.net/user/obaidulsaiki)  
- -> Codechef-  [obaidulsaiki](https://www.codechef.com/users/obaidulsaiki)  
+### 🧰 Languages and Tools 
+<p align="left">
+   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+   <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+   <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+   <img align="left" alt="Python ML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+   <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+   <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+   <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+   <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/excel.svg"/>
+   <img align="left" alt="PowerPoint" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/powerpoint.svg"/>
+   <img align="left" alt="Word" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/word.svg"/>
+   <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"/>
+</p>
+
 ## 💞️ I’m looking to collaborate on project on this field
 ## 📫 How to reach me
 facebook:https://www.facebook.com/obidul.saki  
