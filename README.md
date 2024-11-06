@@ -9,8 +9,8 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
    </a><a href="https://www.hackerrank.com/obaidulsaiki">
       <img alt="HackerRank score" title="HackerRank score" src="https://custom-icon-badges.demolab.com/badge/HackerRank-67-%2355960c?style=for-the-badge&labelColor=488207&logo=hackerrank&logoColor=white"/>
    </a>
-   <a href="https://toph.co/u/yourusername">
-      <img alt="Toph score" title="Toph score" src="https://custom-icon-badges.demolab.com/badge/Toph-53-%23236ad3?style=for-the-badge&labelColor=1155ba&logo=toph&logoColor=white"/>
+   <a href="https://toph.co/u/obaidulsaiki">
+      <img alt="Toph score" title="Toph score" src="https://custom-icon-badges.demolab.com/badge/Toph-72-%23236ad3?style=for-the-badge&labelColor=1155ba&logo=toph&logoColor=white"/>
    </a>
 </p>
 
