@@ -4,9 +4,16 @@
 I’m a visionary coder, blending my expertise in Java and Python with robust skills in JavaScript, PHP, SQL, C++, and C to bring innovative ideas to life. With hands-on experience in research and practical project development, I thrive on diving into challenging domains, solving problems with clean, efficient code, and exploring cutting-edge tech. What excites me most? Crafting solutions from scratch—there’s nothing like building something that didn’t exist before. When I’m not deep in code, you’ll find me tinkering, experimenting, and creating systems just for the thrill of it, always seeking that next 'aha' moment.
 
 <p align="left">
-   <a href="https://codeforces.com/profile/yourusername">
+   <a href="https://codeforces.com/profile/obaidulsaiki">
       <img alt="Codeforces rating" title="Codeforces rating" src="https://custom-icon-badges.demolab.com/badge/Codeforces-267-%23E05D44?style=for-the-badge&labelColor=CE4630&logo=codeforces&logoColor=white"/>
    </a>
+
+<a href="https://www.hackerrank.com/obaidulsaiki">
+<img alt="HackerRank score" title="HackerRank score" src="https://custom-icon-badges.demolab.com/badge/HackerRank-67-%2355960c?style=for-the-badge&labelColor=488207&logo=hackerrank&logoColor=white"/>
+</a>
+</p>
+<p align="left">
+   <
 </p>
 
 
