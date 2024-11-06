@@ -41,6 +41,27 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
   
 ## Let's collaborate! 🤝I am looking forward to work in a project 
 ## 📫 How to reach me
+
+<p align="left">
+   <a href="https://github.com/obaidulsaiki">
+      <img alt="GitHub" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-%23236ad3?style=for-the-badge&labelColor=1155ba&logo=github&logoColor=white"/>
+   </a>
+   <a href="https://twitter.com/obaidulsaiki">
+      <img alt="Twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-%231DA1F2?style=for-the-badge&labelColor=1A91DA&logo=twitter&logoColor=white"/>
+   </a>
+   <a href="https://www.instagram.com/obaidulsaiki">
+      <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-%23E1306C?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white"/>
+   </a>
+   <a href="https://www.linkedin.com/in/obaidulsaiki">
+      <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%230A66C2?style=for-the-badge&labelColor=0A66C2&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://www.facebook.com/obidul.saki ">
+      <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-%2340A3E8?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white"/>
+   </a>
+</p>
+
+
+
 facebook:https://www.facebook.com/obidul.saki  
 whatsapp : 01883440377  
 gmail: saki.obidul@gmail.com  
