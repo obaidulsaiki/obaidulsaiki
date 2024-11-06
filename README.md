@@ -58,13 +58,11 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
    <a href="https://www.facebook.com/obidul.saki ">
       <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-%2340A3E8?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white"/>
    </a>
+	<a href="https://wa.me/8801883440377">
+      <img alt="WhatsApp" title="WhatsApp" src="https://custom-icon-badges.demolab.com/badge/WhatsApp-%2394C25E?style=for-the-badge&labelColor=25D366&logo=whatsapp&logoColor=white"/>
+   </a>
 </p>
-
-
-
-facebook:https://www.facebook.com/obidul.saki  
-whatsapp : 01883440377  
-gmail: saki.obidul@gmail.com  
+saki.obidul@gmail.com  
 ## Hobbies
 - Watching  
 	- anime  
