@@ -37,7 +37,7 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
    <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
    <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
    <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"/>
-</p>    
+</p><br>
   
 ##  I’m looking to collaborate on a project in this field
 ## 📫 How to reach me
