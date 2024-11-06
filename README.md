@@ -22,7 +22,7 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
 
 ---
    
-### 🧰 Languages and Tools 
+##  Languages and Tools 
 <p align="left">
    <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
    <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -42,7 +42,9 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
    <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"/>
 </p>
 
-## 💞️ I’m looking to collaborate on project on this field
+
+
+## 💞️ I’m looking to collaborate on a project on this field
 ## 📫 How to reach me
 facebook:https://www.facebook.com/obidul.saki  
 whatsapp : 01883440377  
