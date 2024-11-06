@@ -39,7 +39,7 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
    <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"/>
 </p>    
 
----
+   ---
 
 ## 💞️ I’m looking to collaborate on a project on this field
 ## 📫 How to reach me
