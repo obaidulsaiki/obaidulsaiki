@@ -5,8 +5,8 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
 
 <p align="left">
       <a href="https://codeforces.com/profile/obaidulsaiki">
-         <img src="https://img.shields.io/badge/Codeforces-red?style=for-the-badge" alt="Codeforces" />
-	      <img src="https://img.shields.io/badge/207-FF5722?style=for-the-badge" alt="Problems Solved" />
+         <img src="https://img.shields.io/badge/Codeforces-red?style=for-the-badge" alt="" />
+	<img src="https://img.shields.io/badge/207-FF5722?style=for-the-badge" alt="Problems Solved" />
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
