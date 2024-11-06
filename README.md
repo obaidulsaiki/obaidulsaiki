@@ -12,6 +12,12 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
    <a href="https://toph.co/u/obaidulsaiki">
       <img alt="Toph score" title="Toph score" src="https://custom-icon-badges.demolab.com/badge/Toph-72-%23236ad3?style=for-the-badge&labelColor=1155ba&logo=toph&logoColor=white"/>
    </a>
+	<a href="https://leetcode.com/u/obaidulsaiki/">
+      <img alt="LeetCode score" title="LeetCode score" src="https://custom-icon-badges.demolab.com/badge/LeetCode-00-%23005588?style=for-the-badge&labelColor=003366&logo=leetcode&logoColor=white"/>
+   </a>
+   <a href="https://www.hackerearth.com/@saki.obidul">
+      <img alt="HackerEarth score" title="HackerEarth score" src="https://custom-icon-badges.demolab.com/badge/HackerEarth-12-%23E1AD0E?style=for-the-badge&labelColor=C79600&logo=hackerearth&logoColor=white"/>
+   </a>
 </p>
 
 
