@@ -40,7 +40,7 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
    <img align="left" alt="PowerPoint" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/powerpoint.svg"/>
    <img align="left" alt="Word" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/word.svg"/>
    <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"/>
-</p>
+</p>  
 
 
 
