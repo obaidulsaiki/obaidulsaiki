@@ -6,15 +6,12 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
 <p align="left">
    <a href="https://codeforces.com/profile/obaidulsaiki">
       <img alt="Codeforces rating" title="Codeforces rating" src="https://custom-icon-badges.demolab.com/badge/Codeforces-267-%23E05D44?style=for-the-badge&labelColor=CE4630&logo=codeforces&logoColor=white"/>
+   </a><a href="https://www.hackerrank.com/obaidulsaiki">
+      <img alt="HackerRank score" title="HackerRank score" src="https://custom-icon-badges.demolab.com/badge/HackerRank-67-%2355960c?style=for-the-badge&labelColor=488207&logo=hackerrank&logoColor=white"/>
    </a>
+</p>
 
-<a href="https://www.hackerrank.com/obaidulsaiki">
-<img alt="HackerRank score" title="HackerRank score" src="https://custom-icon-badges.demolab.com/badge/HackerRank-67-%2355960c?style=for-the-badge&labelColor=488207&logo=hackerrank&logoColor=white"/>
-</a>
-</p>
-<p align="left">
-   <
-</p>
+
 
 
  
