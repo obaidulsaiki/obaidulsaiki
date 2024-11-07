@@ -62,4 +62,6 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
       <img alt="WhatsApp" title="WhatsApp" src="https://custom-icon-badges.demolab.com/badge/WhatsApp-%2394C25E?style=for-the-badge&labelColor=25D366&logo=whatsapp&logoColor=white"/>
    </a>
 </p>
------saki.obidul@gmail.com  -----
+
+
+[![Obaidulsaiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=obaidulsaiki)](https://github.com/obaidulsaiki/github-readme-stats)
