@@ -66,4 +66,4 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
 
 [![Obaidulsaiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=obaidulsaiki)](https://github.com/obaidulsaiki/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki)](https://github.com/obaidulsaiki/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&layout=compact)
