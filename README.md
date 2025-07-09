@@ -1,13 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidulsaiki&label=Profile%20views&color=0e75b6&style=flat" alt="obaidul" /> </p>
 
 
-<p align="center">
-  <h1>Hi, Obaidul Haque here 👋</h1>
-</p>
-**`obaidulsaiki (aspiring_Ml_engineer_and_developer)`**
+<h1 align="center">Hi, Obaidul Haque here 👋</h1>
+## Aspiring_Ml_engineer_and_java_developer
 
 <p align="justify">
-I'm a visionary developer who thrives on transforming ideas into impactful software solutions. With a solid foundation in <strong>Java</strong> and deepening expertise in <strong>Spring Framework</strong> and <strong>Spring Boot</strong>, I specialize in crafting robust, scalable backend systems that are production-ready and efficient.
+I'm a visionary developer who thrives on transforming ideas into impactful software solutions. With a solid foundation in <strong>Java</strong> and deepening expertise in <strong>Spring Framework</strong> and <strong>Spring Boot</strong>, I specialize in crafting robust, scalable, and efficient production-ready backend systems.
 
 Alongside my Java journey, I bring versatility through hands-on experience in <strong>Python</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>SQL</strong>, <strong>C++</strong>, and <strong>C</strong>. Whether I’m tackling a challenging research problem or developing a practical project, I approach each task with curiosity, precision, and a passion for clean code.
 
