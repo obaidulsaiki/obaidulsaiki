@@ -1,7 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidulsaiki&label=Profile%20views&color=0e75b6&style=flat" alt="obaidul" /> </p>
 
 
-<p align = "center"> <h1>Hi, Obaidul Haque here👋</h1> <\p>
+<p align="center">
+  <h1>Hi, Obaidul Haque here 👋</h1>
+</p>
 **`obaidulsaiki (aspiring_Ml_engineer_and_developer)`**
 
 <p align="justify">
