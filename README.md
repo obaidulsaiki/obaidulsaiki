@@ -85,7 +85,7 @@ Outside of development, you’ll often find me experimenting with new tools, con
 [![Obaidulsaiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=obaidulsaiki)](https://github.com/obaidulsaiki/github-readme-stats)
 
 # Language proficiency   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=obaidulsaiki&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # Github Contribution
 ![](https://github-readme-stats.vercel.app/api?username=obaidulsaiki&show_icons=true&theme=dark&include_all_commits=true)
