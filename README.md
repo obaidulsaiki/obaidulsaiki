@@ -4,7 +4,15 @@
 # Hi, Obaidul Haque here👋
 **`obaidulsaiki (aspiring_Ml_engineer_and_developer)`**
 
-I’m a visionary coder, blending my expertise in Java and Python with robust skills in JavaScript, PHP, SQL, C++, and C to bring innovative ideas to life. With hands-on experience in research and practical project development, I thrive on diving into challenging domains, solving problems with clean, efficient code, and exploring cutting-edge tech. What excites me most? Crafting solutions from scratch—there’s nothing like building something that didn’t exist before. When I’m not deep in code, you’ll find me tinkering, experimenting, and creating systems just for the thrill of it, always seeking that next 'aha' moment.
+<p align="justify">
+I'm a visionary developer who thrives on transforming ideas into impactful software solutions. With a solid foundation in <strong>Java</strong> and deepening expertise in <strong>Spring Framework</strong> and <strong>Spring Boot</strong>, I specialize in crafting robust, scalable backend systems that are production-ready and efficient.
+
+Alongside my Java journey, I bring versatility through hands-on experience in <strong>Python</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>SQL</strong>, <strong>C++</strong>, and <strong>C</strong>. Whether I’m tackling a challenging research problem or developing a practical project, I approach each task with curiosity, precision, and a passion for clean code.
+
+What excites me most is the process of creation—building something from the ground up, architecting systems that solve real-world problems. I'm constantly exploring new technologies, pushing boundaries, and chasing that next “aha” moment that brings an abstract idea to life.
+
+Outside of development, you’ll often find me experimenting with new tools, contributing to personal projects, and deepening my skills—because for me, learning never stops.
+</p>
 
 <p align="left">
    <a href="https://codeforces.com/profile/obaidulsaiki">
