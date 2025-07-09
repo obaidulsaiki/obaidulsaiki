@@ -28,6 +28,9 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
 ##  Languages and Tools 
 <p align="left">
    <img alt="Java" title="Java" src="https://custom-icon-badges.demolab.com/badge/Java-%23007396?style=for-the-badge&labelColor=007396&logo=java&logoColor=white"/>
+   <img alt="Spring" title="Spring Framework" src="https://custom-icon-badges.demolab.com/badge/Spring-%236DB33F?style=for-the-badge&labelColor=6DB33F&logo=spring&logoColor=white"/>
+   <img alt="Spring Boot" title="Spring Boot" src="https://custom-icon-badges.demolab.com/badge/Spring Boot-%236DB33F?style=for-the-badge&labelColor=6DB33F&logo=springboot&logoColor=white"/>
+   <img alt="Spring Security" title="Spring Security" src="https://custom-icon-badges.demolab.com/badge/Security-%236DB33F?style=for-the-badge&labelColor=4CAF50&logo=springsecurity&logoColor=white"/>
    <img alt="C" title="C" src="https://custom-icon-badges.demolab.com/badge/C-%2300599C?style=for-the-badge&labelColor=00599C&logo=c&logoColor=white"/>
    <img alt="C++" title="C++" src="https://custom-icon-badges.demolab.com/badge/C++-%2300599C?style=for-the-badge&labelColor=00599C&logo=cplusplus&logoColor=white"/>
    <img alt="JavaScript" title="JavaScript" src="https://custom-icon-badges.demolab.com/badge/JavaScript-%23F7DF1E?style=for-the-badge&labelColor=F7DF1E&logo=javascript&logoColor=black"/>
@@ -36,9 +39,7 @@ I’m a visionary coder, blending my expertise in Java and Python with robust sk
    <img alt="PHP" title="PHP" src="https://custom-icon-badges.demolab.com/badge/PHP-%23777BB4?style=for-the-badge&labelColor=777BB4&logo=php&logoColor=white"/>
    <img alt="MySQL" title="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-%234479A1?style=for-the-badge&labelColor=4479A1&logo=mysql&logoColor=white"/>
    <img alt="Canva" title="Canva" src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC?style=for-the-badge&labelColor=00C4CC&logo=canva&logoColor=white"/>
-   <img alt="Spring" title="Spring Framework" src="https://custom-icon-badges.demolab.com/badge/Spring-%236DB33F?style=for-the-badge&labelColor=6DB33F&logo=spring&logoColor=white"/>
-   <img alt="Spring Boot" title="Spring Boot" src="https://custom-icon-badges.demolab.com/badge/Spring Boot-%236DB33F?style=for-the-badge&labelColor=6DB33F&logo=springboot&logoColor=white"/>
-   <img alt="Spring Security" title="Spring Security" src="https://custom-icon-badges.demolab.com/badge/Security-%236DB33F?style=for-the-badge&labelColor=4CAF50&logo=springsecurity&logoColor=white"/>
+   
    <img alt="DSA" title="Data Structures & Algorithms" src="https://custom-icon-badges.demolab.com/badge/DSA-%23212121?style=for-the-badge&labelColor=212121&logo=code&logoColor=white"/>
 </p>
 
