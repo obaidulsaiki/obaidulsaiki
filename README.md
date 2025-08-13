@@ -80,6 +80,7 @@ Outside of development, you’ll often find me experimenting with new tools, con
       <img alt="WhatsApp" title="WhatsApp" src="https://custom-icon-badges.demolab.com/badge/WhatsApp-%2394C25E?style=for-the-badge&labelColor=25D366&logo=whatsapp&logoColor=white"/>
    </a>
 </p>
+
 ## Stats  
 [![Obaidulsaiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=obaidulsaiki)](https://github.com/obaidulsaiki/github-readme-stats)
 
