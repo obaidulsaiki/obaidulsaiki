@@ -7,10 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=1C2C5B&center=true&width=435&lines=Backend+Developer+(Java);ML engineer; Researcher;Spring+Boot+Expert;Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rifat-Tipu&label=Profile%20views&color=0e75b6&style=flat" alt="Rifat-Tipu" /> </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=obaidulsaiki&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
