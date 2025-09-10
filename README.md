@@ -21,9 +21,24 @@ Alongside my Java journey, I bring versatility through hands-on experience in **
 What excites me most is the process of creation—building something from the ground up and architecting systems that solve real-world problems. I'm constantly exploring new technologies, pushing boundaries, and chasing that next “aha” moment that brings an abstract idea to life.
 
 <p align="center">
+  <p align="center">
   <a href="https://codeforces.com/profile/obaidulsaiki">
     <img alt="Codeforces" src="https://custom-icon-badges.demolab.com/badge/Codeforces-267-%23E05D44?style=for-the-badge&labelColor=CE4630&logo=codeforces&logoColor=white"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/Obaidulsaiki">
+    <img alt="HackerRank" src="https://custom-icon-badges.demolab.com/badge/HackerRank-67-%2355960c?style=for-the-badge&labelColor=488207&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://toph.co/u/obaidulsaiki">
+    <img alt="Toph" src="https://custom-icon-badges.demolab.com/badge/Toph-72-%23236ad3?style=for-the-badge&labelColor=1155ba&logo=toph&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/obaidulsaiki/">
+    <img alt="LeetCode" src="https://custom-icon-badges.demolab.com/badge/LeetCode-03-%23005588?style=for-the-badge&labelColor=003366&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerearth.com/@saki.obidul">
+    <img alt="HackerEarth" src="https://custom-icon-badges.demolab.com/badge/HackerEarth-12-%23E1AD0E?style=for-the-badge&labelColor=C79600&logo=hackerearth&logoColor=white"/>
+  </a>
+</p>
+
   <a href="https://www.hackerrank.com/profile/Obaidulsaiki">
     <img alt="HackerRank" src="https://custom-icon-badges.demolab.com/badge/HackerRank-67-%2355960c?style=for-the-badge&labelColor=488207&logo=hackerrank&logoColor=white"/>
   </a>
