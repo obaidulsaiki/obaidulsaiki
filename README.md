@@ -23,9 +23,10 @@ What excites me most is the process of creation—building something from the gr
 <p align="center">
   <p align="center">
  <a href="https://codeforces.com/profile/obaidulsaiki">
-  <img alt="Codeforces Solved"
-       src="https://img.shields.io/badge/dynamic/json?url=https://codeforces-readme-stats.vercel.app/api/user?username=obaidulsaiki&query=solvedCount&label=Codeforces&style=for-the-badge&labelColor=CE4630&color=E05D44&logo=codeforces&logoColor=white"/>
-</a>
+    <img alt="Codeforces Rating" 
+         src="https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=obaidulsaiki&query=$.result[0].rating&label=Codeforces&style=for-the-badge&labelColor=CE4630&color=E05D44&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
   <a href="https://www.hackerrank.com/profile/Obaidulsaiki">
     <img alt="HackerRank" src="https://custom-icon-badges.demolab.com/badge/HackerRank-67-%2355960c?style=for-the-badge&labelColor=488207&logo=hackerrank&logoColor=white"/>
   </a>
