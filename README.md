@@ -63,7 +63,7 @@ What excites me most is the process of creation—building something from the gr
 </p>
 
 ## 🤝 Let's Connect!
-I'm always open to collaborating on interesting projects and connecting with fellow developers. Feel free to reach out!
+I'm always open to collaborating on interesting projects and connecting with fellow developers. Feel free to reach out! 
 
 <p align="center">
   <a href="https://github.com/obaidulsaiki">
