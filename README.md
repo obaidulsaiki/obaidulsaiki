@@ -101,6 +101,6 @@ I'm always open to collaborating on interesting projects and connecting with fel
 
 <p align="center">
   <!-- GitHub Contributions -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=obaidulsaiki&limit=6&theme=dark&combine_all_yearly_contributions=true&cache_bust=1" alt="GitHub Contributions" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=obaidulsaiki&limit=7&theme=dark&combine_all_yearly_contributions=true&cache_bust=1" alt="GitHub Contributions" />
 </p>
 
