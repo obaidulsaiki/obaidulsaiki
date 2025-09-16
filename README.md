@@ -87,12 +87,20 @@ I'm always open to collaborating on interesting projects and connecting with fel
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obaidulsaiki&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Obaidulsaiki's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=obaidulsaiki&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&cache_bust=1" alt="Obaidulsaiki's GitHub stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&cache_bust=1" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=obaidulsaiki&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=obaidulsaiki&theme=dark&hide_border=true&cache_bust=1" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=obaidulsaiki&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributions" />
+  <!-- GitHub Contributions -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=obaidulsaiki&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_bust=1" alt="GitHub Contributions" />
 </p>
+
