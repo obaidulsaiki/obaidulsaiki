@@ -110,17 +110,18 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 <br/>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=obaidulsaiki&theme=tokyonight&utcOffset=6" alt="Productive Time" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obaidulsaiki&theme=tokyonight" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🏆 Top Repositories</h3>
+  <h3>🏆 Top Projects</h3>
+  
   <a href="https://github.com/obaidulsaiki/obaidulsaiki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=obaidulsaiki&theme=tokyonight" alt="Readme Repo" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=obaidulsaiki&theme=tokyonight" />
   </a>
+
   </div>
 
 <br/>
