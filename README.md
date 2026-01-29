@@ -104,17 +104,13 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obaidulsaiki&theme=tokyonight" alt="Obaidul's Profile Details" />
-  
-  <br/>
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=obaidulsaiki&theme=tokyonight&utcOffset=6" alt="Productive Time" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=obaidulsaiki&theme=tokyonight&hide_border=true" alt="Obaidul's Streak" />
+  
+  <br/> <br/>
+
+  <img src="https://img.shields.io/github/followers/obaidulsaiki?logo=github&style=for-the-badge&color=2e3440&labelColor=5e81ac" />
+  <img src="https://img.shields.io/github/stars/obaidulsaiki?logo=github&style=for-the-badge&color=2e3440&labelColor=bf616a" />
+  <img src="https://img.shields.io/github/issues-pr-closed/obaidulsaiki?logo=github&style=for-the-badge&color=2e3440&labelColor=a3be8c" />
 </div>
 
 <br/>
