@@ -132,7 +132,7 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 | **🥉 Tour Management - 2025** | **🏅 Tutor Management - 2025** |
 |:---:|:---:|
 | **[View Repository](https://github.com/obaidulsaiki/Tour-Managment-System)** | **[View Repository](https://github.com/obaidulsaiki/tutor-management-system)** |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> | <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-02303A?style=flat-square&logo=postman&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> | <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-02303A?style=flat-square&logo=postman&logoColor=white"/> |
 
 <br/>
 
