@@ -105,13 +105,18 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 
 <div align="center">
   <a href="https://github.com/obaidulsaiki">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=obaidulsaiki&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=6" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=obaidulsaiki&theme=tokyonight&show_icons=true&hide_border=true" alt="Obaidul's Stats" />
+  </a>
+  
+  <a href="https://github.com/obaidulsaiki">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Obaidul's Top Languages" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=obaidulsaiki&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=obaidulsaiki&theme=tokyonight&hide_border=true" alt="Obaidul's Streak" />
 </div>
 
 <br/>
