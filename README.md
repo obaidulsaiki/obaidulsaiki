@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
 
 ### 👨‍💻 About Me
 
@@ -35,25 +35,33 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 - ⚡ **Focus:** Clean Code, Scalability, and Efficiency.
 
     </td>
-    <td width="40%" valign="top">
+    <td width="45%" valign="top">
 
 ### 🏆 Problem Solving
 
 <div align="center">
   <a href="https://codeforces.com/profile/obaidulsaiki">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-267-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <br/>
   <a href="https://leetcode.com/u/obaidulsaiki/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-3-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
   <br/>
   <a href="https://www.hackerrank.com/profile/Obaidulsaiki">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/HackerRank-67-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
   <br/>
   <a href="https://toph.co/u/obaidulsaiki">
-    <img src="https://img.shields.io/badge/Toph.co-0078D7?style=for-the-badge&logo=algorithms&logoColor=white" alt="Toph"/>
+    <img src="https://img.shields.io/badge/Toph-72-0078D7?style=for-the-badge&logo=algorithms&logoColor=white" />
+  </a>
+  <br/>
+  <a href="https://www.codechef.com/users/obaidulsaiki">
+    <img src="https://img.shields.io/badge/CodeChef-100-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <br/>
+  <a href="https://www.beecrowd.com.br/judge/en/profile/obaidulsaiki">
+    <img src="https://img.shields.io/badge/Beecrowd-50-FCCB00?style=for-the-badge&logo=swarm&logoColor=black" />
   </a>
 </div>
 
