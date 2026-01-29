@@ -102,7 +102,7 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 ---
 ## 📊 GitHub Analytics
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex&show=percentage)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&layout=compact&theme=dracula&hide_border=true&langs_count=8)
 
 ---
 
