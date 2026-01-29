@@ -120,56 +120,32 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 
 ## 🏆 Featured Projects
 
-### 🥇 EduMaster – Learning Management System (2026)  
-**Stack:** Java, Spring Boot, Spring Security, Hibernate/JPA, REST APIs  
-<a href="https://github.com/obaidulsaiki/EduMaster-LearningManagementSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=EduMaster-LearningManagementSystem&theme=tokyonight&hide_border=true" />
-</a>
+<div align="center">
 
----
+| **🥇 EduMaster (LMS) - 2026** | **🥈 Key2Stay (To-Let) - 2025** |
+|:---:|:---:|
+| <a href="https://github.com/obaidulsaiki/EduMaster-LearningManagementSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=EduMaster-LearningManagementSystem&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/obaidulsaiki/key2Stay-Tolet-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=key2Stay-Tolet-Management-System&theme=tokyonight&hide_border=true" /></a> |
+| <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white"/> | <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> |
 
-### 🥈 Key2Stay – To-Let Management System (2025)  
-**Stack:** ASP.NET Core MVC, Entity Framework, MySQL, Bootstrap  
-<a href="https://github.com/obaidulsaiki/key2Stay-Tolet-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=key2Stay-Tolet-Management-System&theme=tokyonight&hide_border=true" />
-</a>
+<br/>
 
----
+| **🥉 Tour Management - 2025** | **🏅 Tutor Management - 2025** |
+|:---:|:---:|
+| <a href="https://github.com/obaidulsaiki/Tour-Managment-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=Tour-Managment-System&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/obaidulsaiki/tutor-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=tutor-management-system&theme=tokyonight&hide_border=true" /></a> |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> | <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-02303A?style=flat-square&logo=postman&logoColor=white"/> |
 
-### 🥉 Tour Management System (2025)  
-**Stack:** Java, Spring Boot, MySQL  
-<a href="https://github.com/obaidulsaiki/Tour-Managment-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=Tour-Managment-System&theme=tokyonight&hide_border=true" />
-</a>
+<br/>
 
----
+| **🛍 JavaFX E-commerce - 2024** | **☕ Hangover Cafe - 2023** |
+|:---:|:---:|
+| <a href="https://github.com/obaidulsaiki/project3_JavaFx01_E-commerceApplication"><img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=project3_JavaFx01_E-commerceApplication&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/obaidulsaiki/project02_javaScript01_hangoverCafe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=project02_javaScript01_hangoverCafe&theme=tokyonight&hide_border=true" /></a> |
+| <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
 
-### 🏅 Tutor Management System (2025)  
-**Stack:** Java, Spring Boot, Spring Security, REST APIs  
-<a href="https://github.com/obaidulsaiki/tutor-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=tutor-management-system&theme=tokyonight&hide_border=true" />
-</a>
+<br/>
 
----
+| **🚀 Mission 2022 - 2022** | **✨ More Projects** |
+|:---:|:---:|
+| <a href="https://github.com/obaidulsaiki/project01_Mission2022"><img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=project01_Mission2022&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/obaidulsaiki?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-1F2328?style=for-the-badge&logo=github&logoColor=white" height="100" /></a> |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> | **Explore my full portfolio** |
 
-### 🛍 JavaFX E-commerce Application (2024)  
-**Stack:** JavaFX, MySQL, CSS  
-<a href="https://github.com/obaidulsaiki/project3_JavaFx01_E-commerceApplication">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=project3_JavaFx01_E-commerceApplication&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
-### ☕ Hangover Cafe Website (2023)  
-**Stack:** HTML, CSS, JavaScript  
-<a href="https://github.com/obaidulsaiki/project02_javaScript01_hangoverCafe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=project02_javaScript01_hangoverCafe&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
-### 🚀 Mission 2022 Project (2022)  
-**Stack:** HTML, CSS, JavaScript  
-<a href="https://github.com/obaidulsaiki/project01_Mission2022">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=project01_Mission2022&theme=tokyonight&hide_border=true" />
-</a>
+</div>
