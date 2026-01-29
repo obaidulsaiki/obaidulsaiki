@@ -104,13 +104,11 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/obaidulsaiki">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=obaidulsaiki&theme=tokyonight&show_icons=true&hide_border=true" alt="Obaidul's Stats" />
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obaidulsaiki&theme=tokyonight" alt="Obaidul's Profile Details" />
   
-  <a href="https://github.com/obaidulsaiki">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Obaidul's Top Languages" />
-  </a>
+  <br/>
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=obaidulsaiki&theme=tokyonight&utcOffset=6" alt="Productive Time" />
 </div>
 
 <br/>
