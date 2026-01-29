@@ -104,11 +104,11 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 
 <div align="center">
   <a href="https://github.com/obaidulsaiki">
-    <img src="https://github-readme-stats.vercel.app/api?username=obaidulsaiki&show_icons=true&theme=tokyonight&hide_border=true&disable_animations=true" height="160" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=obaidulsaiki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="160" alt="Stats" />
   </a>
   
   <a href="https://github.com/obaidulsaiki">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&layout=compact&theme=tokyonight&hide_border=true&disable_animations=true" height="160" alt="Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=obaidulsaiki" height="160" alt="Languages" />
   </a>
   
   <br/>
