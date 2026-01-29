@@ -149,16 +149,3 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> | **Explore my full portfolio** |
 
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=60&section=footer" width="100%"/>
-</div>
-
-| **🚀 Mission 2022 - 2022** | **✨ More Projects** |
-|:---:|:---:|
-| <a href="https://github.com/obaidulsaiki/project01_Mission2022"><img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=project01_Mission2022&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/obaidulsaiki?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-1F2328?style=for-the-badge&logo=github&logoColor=white" height="100" /></a> |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> | **Explore my full portfolio** |
-
-</div>
