@@ -110,22 +110,17 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 <br/>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&theme=tokyonight&hide_border=true&layout=compact&disable_animations=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&theme=tokyonight&hide_border=true&layout=compact&disable_animations=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🏆 Top Projects</h3>
+  <h3>🏆 Featured Project</h3>
   
-  <a href="https://github.com/obaidulsaiki/obaidulsaiki">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=obaidulsaiki&theme=tokyonight" />
+  <a href="https://github.com/obaidulsaiki/My-Java-Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=My-Java-Project&theme=tokyonight" />
   </a>
-
-  </div>
+</div>
 
 <br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=60&section=footer" width="100%"/>
-</div>
