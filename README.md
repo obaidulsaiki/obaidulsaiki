@@ -41,27 +41,27 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 
 <div align="center">
   <a href="https://codeforces.com/profile/obaidulsaiki">
-    <img src="https://img.shields.io/badge/Codeforces-267-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-267-A30F27?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=A30F27" />
   </a>
   <br/>
   <a href="https://leetcode.com/u/obaidulsaiki/">
-    <img src="https://img.shields.io/badge/LeetCode-3-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-3-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116" />
   </a>
   <br/>
   <a href="https://www.hackerrank.com/profile/Obaidulsaiki">
-    <img src="https://img.shields.io/badge/HackerRank-67-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-67-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=2EC866" />
   </a>
   <br/>
   <a href="https://toph.co/u/obaidulsaiki">
-    <img src="https://img.shields.io/badge/Toph-72-0078D7?style=for-the-badge&logo=algorithms&logoColor=white" />
+    <img src="https://img.shields.io/badge/Toph-72-0078D7?style=for-the-badge&logo=algorithms&logoColor=white&labelColor=0078D7" />
   </a>
   <br/>
   <a href="https://www.codechef.com/users/obaidulsaiki">
-    <img src="https://img.shields.io/badge/CodeChef-100-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-100-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638" />
   </a>
   <br/>
   <a href="https://www.beecrowd.com.br/judge/en/profile/obaidulsaiki">
-    <img src="https://img.shields.io/badge/Beecrowd-50-FCCB00?style=for-the-badge&logo=swarm&logoColor=black" />
+    <img src="https://img.shields.io/badge/Beecrowd-50-FCCB00?style=for-the-badge&logo=swarm&logoColor=black&labelColor=FCCB00" />
   </a>
 </div>
 
