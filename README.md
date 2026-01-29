@@ -102,19 +102,21 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 ---
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
   <a href="https://github.com/obaidulsaiki">
-    <img src="https://github-readme-stats.vercel.app/api?username=obaidulsaiki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="160" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=obaidulsaiki" height="165" alt="Languages" />
   </a>
   
   <a href="https://github.com/obaidulsaiki">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=obaidulsaiki" height="160" alt="Languages" />
+    <img src="https://streak-stats.demolab.com?user=obaidulsaiki&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="Streak" />
   </a>
   
   <br/>
-  
+
   <a href="https://github.com/obaidulsaiki">
-    <img src="https://streak-stats.demolab.com?user=obaidulsaiki&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="140" alt="Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=obaidulsaiki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165" alt="Stats" />
   </a>
 </div>
 
