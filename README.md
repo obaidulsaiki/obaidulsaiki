@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=OBAIDUL%20HAQUE&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Building%20Intelligent%20Systems%20%26%20Scalable%20Backends&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=OBAIDUL%20HAQUE&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Backend+Engineer+(Java+%2F+Spring+Boot);Machine+Learning+Researcher;Problem+Solver;Tech+Visionary" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1C2C5B&center=true&vCenter=true&width=600&lines=Backend+Engineer+(Java+%2F+Spring+Boot);Machine+Learning+Researcher;Building+Scalable+Systems;Problem+Solver" alt="Typing SVG" />
   </a>
 
   <p>
@@ -15,9 +15,10 @@
     <a href="https://www.linkedin.com/in/obaidulsaiki"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://twitter.com/obaidulsaiki"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
     <a href="https://www.facebook.com/obidul.saki"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </div>
 </div>
+
+<hr/>
 
 <hr/>
 
