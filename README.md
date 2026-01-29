@@ -101,8 +101,8 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 
 ---
 ## 📊 GitHub Analytics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&layout=compact&theme=dracula&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&langs_count=6&hide=jupyter%20notebook,tex,makefile&custom_title=Top%20Languages)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&layout=normal&theme=dracula&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell&hide_progress=false&custom_title=Top%20Languages)
 ---
 
 ## 🏆 Featured Projects
