@@ -102,7 +102,7 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 ---
 ## 📊 GitHub Analytics
 
-[![Obaidul's GitHub stats](https://github-readme-stats.vercel.app/api?username=obaidulsaiki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)](https://github.com/obaidulsaiki)
+
 ---
 
 ## 🏆 Featured Projects
