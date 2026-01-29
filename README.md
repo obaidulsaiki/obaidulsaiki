@@ -101,26 +101,71 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=obaidulsaiki&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=obaidulsaiki&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=obaidulsaiki&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&theme=tokyonight&hide_border=true&layout=compact&disable_animations=true" alt="Top Languages" />
-</div>
+---
 
-<br/>
+## 🏆 Featured Projects
 
-<div align="center">
-  <h3>🏆 Featured Project</h3>
-  
-  <a href="https://github.com/obaidulsaiki/My-Java-Project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=My-Java-Project&theme=tokyonight" />
-  </a>
-</div>
+### 🥇 EduMaster – Learning Management System (2026)  
+**Stack:** Java, Spring Boot, Spring Security, Hibernate/JPA, REST APIs  
+<a href="https://github.com/obaidulsaiki/EduMaster-LearningManagementSystem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=EduMaster-LearningManagementSystem&theme=tokyonight&hide_border=true" />
+</a>
 
-<br/>
+---
+
+### 🥈 Key2Stay – To-Let Management System (2025)  
+**Stack:** ASP.NET Core MVC, Entity Framework, MySQL, Bootstrap  
+<a href="https://github.com/obaidulsaiki/key2Stay-Tolet-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=key2Stay-Tolet-Management-System&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+### 🥉 Tour Management System (2025)  
+**Stack:** Java, Spring Boot, MySQL  
+<a href="https://github.com/obaidulsaiki/Tour-Managment-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=Tour-Managment-System&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+### 🏅 Tutor Management System (2025)  
+**Stack:** Java, Spring Boot, Spring Security, REST APIs  
+<a href="https://github.com/obaidulsaiki/tutor-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=tutor-management-system&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+### 🛍 JavaFX E-commerce Application (2024)  
+**Stack:** JavaFX, MySQL, CSS  
+<a href="https://github.com/obaidulsaiki/project3_JavaFx01_E-commerceApplication">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=project3_JavaFx01_E-commerceApplication&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+### ☕ Hangover Cafe Website (2023)  
+**Stack:** HTML, CSS, JavaScript  
+<a href="https://github.com/obaidulsaiki/project02_javaScript01_hangoverCafe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=project02_javaScript01_hangoverCafe&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+### 🚀 Mission 2022 Project (2022)  
+**Stack:** HTML, CSS, JavaScript  
+<a href="https://github.com/obaidulsaiki/project01_Mission2022">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidulsaiki&repo=project01_Mission2022&theme=tokyonight&hide_border=true" />
+</a>
