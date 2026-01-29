@@ -4,7 +4,7 @@
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1C2C5B&center=true&vCenter=true&width=600&lines=Backend+Engineer+(Java+%2F+Spring+Boot);Machine+Learning+Researcher;Building+Scalable+Systems;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1C2C5B&center=true&vCenter=true&width=700&lines=Backend+Engineer+(Java+%2F+Spring+Boot);Machine+Learning+Researcher;Building+Scalable+Systems;Problem+Solver" alt="Typing SVG" />
   </a>
 
   <p>
@@ -20,8 +20,6 @@
 
 <hr/>
 
-<hr/>
-
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -32,8 +30,8 @@ I'm a visionary developer who thrives on transforming ideas into impactful softw
 
 Simultaneously, I am deeply involved in **Machine Learning research**, constantly exploring new technologies to solve real-world problems.
 
-- 🔭 I’m currently working on **Advanced ML Research & Spring Microservices**
-- 🌱 I’m currently deepening my knowledge in **System Design & Cloud Architecture**
+- 🔭 I’m currently working on **Advanced ML Research**
+- 🌱 I’m currently deepening my knowledge in **System Design**
 - ⚡ **Focus:** Clean Code, Scalability, and Efficiency.
 
     </td>
@@ -42,11 +40,21 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 ### 🏆 Problem Solving
 
 <div align="center">
-  <a href="https://codeforces.com/profile/obaidulsaiki"> <img align="left" width="48%" src="https://custom-icon-badges.demolab.com/badge/Codeforces-267-%23E05D44?style=for-the-badge&labelColor=CE4630&logo=codeforces&logoColor=white"/> </a>
-  <a href="https://leetcode.com/u/obaidulsaiki/"> <img align="right" width="48%" src="https://custom-icon-badges.demolab.com/badge/LeetCode-03-%23005588?style=for-the-badge&labelColor=003366&logo=leetcode&logoColor=white"/> </a>
-  <br/><br/>
-  <a href="https://www.hackerrank.com/profile/Obaidulsaiki"> <img align="left" width="48%" src="https://custom-icon-badges.demolab.com/badge/HackerRank-67-%2355960c?style=for-the-badge&labelColor=488207&logo=hackerrank&logoColor=white"/> </a>
-  <a href="https://toph.co/u/obaidulsaiki"> <img align="right" width="48%" src="https://custom-icon-badges.demolab.com/badge/Toph-72-%23236ad3?style=for-the-badge&labelColor=1155ba&logo=toph&logoColor=white"/> </a>
+  <a href="https://codeforces.com/profile/obaidulsaiki">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <br/>
+  <a href="https://leetcode.com/u/obaidulsaiki/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <br/>
+  <a href="https://www.hackerrank.com/profile/Obaidulsaiki">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <br/>
+  <a href="https://toph.co/u/obaidulsaiki">
+    <img src="https://img.shields.io/badge/Toph.co-0078D7?style=for-the-badge&logo=algorithms&logoColor=white" alt="Toph"/>
+  </a>
 </div>
 
 </td>
@@ -60,16 +68,6 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 | **Backend & Core** | **Languages** | **Machine Learning** | **DevOps & Tools** |
 |:---:|:---:|:---:|:---:|
 | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" /> <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <br> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" /> |
-
----
-
-### 🔭 Featured Projects & Research
-
-| **Project / Research** | **Description** | **Tech Stack** |
-|:---:|:---|:---:|
-| **Machine Learning Research** | *Researching novel approaches in [Topic Area]* | Python, TensorFlow |
-| **Backend Architecture** | *Building robust APIs and microservices* | Java, Spring Boot, MySQL |
-| **Full Stack App** | *Developing user-centric web applications* | React, Spring Boot |
 
 ---
 
@@ -89,5 +87,5 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=60&section=footer" width="100%"/>
 </div>
