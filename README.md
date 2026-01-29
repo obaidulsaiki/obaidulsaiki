@@ -104,13 +104,13 @@ Simultaneously, I am deeply involved in **Machine Learning research**, constantl
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=obaidulsaiki&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=obaidulsaiki&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&theme=tokyonight&hide_border=true&layout=compact&disable_animations=true" alt="Top Languages" />
 </div>
 
 <br/>
