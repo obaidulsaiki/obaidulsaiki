@@ -15,10 +15,10 @@
     <a href="https://www.linkedin.com/in/obaidulsaiki">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/obaidulsaiki">
+    <a href="https://x.com/obaidulsaiki">
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
     </a>
-    <a href="https://www.facebook.com/obidul.saki">
+    <a href="https://www.facebook.com/obidul.saki/">
       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
     <a href="https://wa.me/8801883440377">
@@ -27,10 +27,10 @@
     <a href="https://www.instagram.com/obaidulsaiki">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="mailto:obaidulsaiki@gmail.com">
+    <a href="mailto:saki.obidul@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
+    <a href="https://scholar.google.com/citations?user=6Lv0Xn4AAAAJ">
       <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
     </a>
   </div>
